@@ -89,7 +89,7 @@ a:active, a:focus {
 .middle > img {
     margin: 0 auto;
 }
-input[type=search] {
+input.input-box {
     padding: 15px 20px;
     width: 50vw;
     border-radius: 20px;
